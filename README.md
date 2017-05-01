@@ -7,4 +7,3 @@ Usage
 Start the Docker containers:
 
     docker run -p 80:80 -v $(pwd):/app/public academiapme/alpine-nginx-php
-
